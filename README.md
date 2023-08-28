@@ -1,6 +1,5 @@
 
 <h1 align="center"><b>Hi , I'm Maxence Lupion </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
 
 ## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B4M2ZhZGVyMHl0a3dmOGNlcHl0dTc4aDMyNGFiY3RuZXJqMXd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtaxKTJlTjHchOcU/giphy.gif" width = 50px></picture> **About me**
 
