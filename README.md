@@ -1,9 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Maxence Lupion </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B4M2ZhZGVyMHl0a3dmOGNlcHl0dTc4aDMyNGFiY3RuZXJqMXd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtaxKTJlTjHchOcU/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B4M2ZhZGVyMHl0a3dmOGNlcHl0dTc4aDMyNGFiY3RuZXJqMXd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtaxKTJlTjHchOcU/giphy.gif" width = 35px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 ```Python
 class MaxenceLupion():
     
@@ -20,7 +19,7 @@ if __name__ == '__main__':
     me = MaxenceLupion()
 ```
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"></picture> **Skills**
 
 <p align="center">
 
@@ -44,7 +43,7 @@ if __name__ == '__main__':
     ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture>**Github Stats**
 <br>
 
 <p align="center">
@@ -54,7 +53,7 @@ if __name__ == '__main__':
 </a>
 </p>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"></picture> **Let's Connect..!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
